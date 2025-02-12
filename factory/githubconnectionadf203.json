@@ -1,0 +1,9 @@
+{
+	"name": "githubconnectionadf203",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da8d3a5d-5b82-47e0-b2f5-b2539f78456b",
+		"tenantId": "6c8791b5-c413-43b1-8748-925fa2e26ced"
+	}
+}
